@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "4be4a29f2574b452",
+    "type": "split",
+    "children": [
+      {
+        "id": "04b907b4cf09645d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d367b852af28e806",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/20 - The oldest brass.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afbf55ab9047725b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/21 - Henry's Latest Victim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff895bb0f69576a3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6bd75482bf3d7050",
+    "type": "split",
+    "children": [
+      {
+        "id": "e90ae9410870d0df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12a47c00c721dd94",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b436da1c9ce088ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea360e31d0039e1b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c22f20d95a47c286",
+    "type": "split",
+    "children": [
+      {
+        "id": "0263e63463edd2c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0478f6cfbe80b07d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "94e19642233bcc90",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0dd40b905046de46",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d57b77c95f9b053d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "612878517bce65e0",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "8976a3cd6a45821e",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "12a47c00c721dd94",
+  "lastOpenFiles": [
+    "pages/100 -.md",
+    "pages/99 -.md",
+    "pages/98 -.md",
+    "pages/97 -.md",
+    "pages/96 -.md",
+    "pages/95 -.md",
+    "pages/94 -.md",
+    "pages/93 -.md",
+    "pages/92 -.md",
+    "pages/91 -.md"
+  ]
+}
